@@ -1,1 +1,1 @@
-hello from ci/cd
+Hello from CI/CD lab
